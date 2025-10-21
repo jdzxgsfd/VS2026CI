@@ -1,6 +1,6 @@
 name:
 vs_Community.exe
 link:
-https://aka.ms/vs/18/insiders/vs_community.exe
+https://aka.ms/vs/18/insiders/vs_Community.exe
 zipBaseName:
 VS2026Community.Insiders.
